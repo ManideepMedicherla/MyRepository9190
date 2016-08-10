@@ -1,5 +1,6 @@
 1) What is sharepoint?
 
+<<<<<<< HEAD
    Sharepoint is the one which is used to develope websites and calenders also share documents in a short span of time
 
 2) Software Requirements for Sharepoint
@@ -38,6 +39,8 @@
   
      WorkFlow
 
+=======
+>>>>>>> origin/master
 
 9)  Integrations Supported by sharePoint
 
