@@ -7,7 +7,6 @@
     Microsoft Sql Server 2008R2 
     Microsoft sql Server 2012,
     Winddows server 
-
 3) Hardware Requirements:
     
     8GB Ram
