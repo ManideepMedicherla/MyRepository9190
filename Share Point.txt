@@ -18,9 +18,10 @@
 
 5)  AD -  Active Directory 
 
-6)  Central Administration - Different Modules can  be controlled form a one place called as Central Administration.
+6)  Central Administration - Different Modules can  be controlled form a one place called as Central Administration.This helps us retreiving the information at one server.
 
 7)  SiteCollection - It is a Global site where it can be acceessed by everyone.
+
 
 8)  Features of SharePoint:
     
