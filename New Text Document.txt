@@ -1,0 +1,85 @@
+TEST 1 : Implement following screens with the givne specificaitons , please note the below points also considered
+
+along with actual development evaluation
+
+-. Naming convensions
+- Three tier implmentation
+- Clean code with proper naming 
+- Design
+
+
+Screen 1 
+1. User Registration  Page
+
+First Name - should start with capital letter, required, should not be more than 50 characters, only characters no
+
+number or special characters
+Last Name : Optional , max 10 chars , only chars
+UserName : Minimum 4 Characters , max 20 charcters, required
+Password: Minimum 8 characters, max 10 characters , required , one special character
+Confirm password :  required, same as password
+Phone number : validate phone number, optional 
+Email : email format , required
+DateOfBirth - with calender control
+
+Age - readonly  text box user can not enter any thing, should be between 18 and 60 - should be evaluated based on
+
+date of birth
+
+User Ado.net while inserting user
+
+Screen 2 
+2. Login
+UserName : as per the specification
+Password: as per the specification
+
+Login button - show validation message if
+
+
+screen 3 :
+3. User Listing screen 
+Gridview - show all users order by  CreatedDate
+sorting  option for columns -  User Name , first name, created date
+
+User Linq while fetching data or while sorting
+
+Screen - 4 
+Logout screen ,- with thank you message
+
+Screen - 5 
+Error page - with a proper error message
+
+
+DB name : Review
+table
+
+User
+UserId - int pk 
+First Name
+Last Name
+UserName
+Password
+Phone Number
+Email Address
+DateOfBirth
+Age
+CreatedDate
+ModifiedDate
+
+
+Configurations 
+configID- int pk 
+MaxNumberOfTImes - 10
+
+
+LogTable
+UserID - fk int
+Date
+LoginTimes
+
+
+Mobile ^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$
+FirstName /^[A-Z].{50}$/
+EmailId \w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*
+tftyf
+8790700549@mani
