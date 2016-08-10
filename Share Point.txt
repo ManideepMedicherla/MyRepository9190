@@ -1,0 +1,63 @@
+1) What is sharepoint?
+
+   Sharepoint is the one which is used to develope websites and calenders also share documents in a short span of time
+
+2) Software Requirements for Sharepoint
+    
+    Microsoft Sql Server 2008R2 
+    Microsoft sql Server 2013, *****
+    Winddows server 
+
+3) Hardware Requirements:
+    
+    8GB Ram
+    Minimum 80Gb Harddisk
+    64-bit Processor
+
+4)  IIs - Internet Information Services, This is the place where the application is deployed.
+
+5)  AD -  Active Directory 
+
+6)  Central Administration - Different Modules can  be controlled form a one place called as Central Administration.
+
+7)  SiteCollection - It is a Global site where it can be acceessed by everyone.
+
+8)  Features of SharePoint:
+    
+     Library
+
+     Lists
+
+     Webparts
+
+     Pages
+   
+     portals 
+ 
+     sites
+  
+     WorkFlow
+
+
+9)  Integrations Supported by sharePoint
+
+10)  Versions Of Sharepoint
+
+     Sharepoint 2001
+     Sharepoint 2003
+     Sharepoint 2007
+     Sharepoint 2010
+     Sharepoint 2013
+     Sharepoint 2016
+ 
+11) Languages Supported by SharePoint 
+
+12) CMS- Content Management System 
+
+13) FARM- Collection of servers
+
+14) Sharepoint on Premis - This is used in intranet services   
+    
+    Sharepoint Online - In this a Single Resource is accessed by all
+
+    Sharepoint Online dedicate - In this Dedicated Resources are used by everyone 
