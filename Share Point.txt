@@ -45,7 +45,11 @@ venkat
  
 11) Languages Supported by SharePoint 
 
-12) CMS- Content Management System 
+
+12) CMS- Content Management System  
+Ex:Drupal,Wordpress,Zyro,Joomla.                    //Sumanth
+
+
 
 13) FARM- Collection of servers
 
