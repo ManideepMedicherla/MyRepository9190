@@ -41,14 +41,7 @@ Hiii this is Aish.....1) What is sharepoint?
 
 9)  Integrations Supported by sharePoint
 
-10)  Versions Of Sharepoint
-
-     Sharepoint 2001
-     Sharepoint 2003
-     Sharepoint 2007
-     Sharepoint 2010
-     Sharepoint 2013
-     Sharepoint 2016
+venkat
  
 11) Languages Supported by SharePoint 
 
