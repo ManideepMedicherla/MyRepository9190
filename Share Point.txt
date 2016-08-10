@@ -7,7 +7,11 @@
     Microsoft Sql Server 2008R2 
     Microsoft sql Server 2012,
     Winddows server 
+<<<<<<< HEAD
 
+=======
+New Requirements checking here
+>>>>>>> origin/master
 3) Hardware Requirements:
     
     8GB Ram
@@ -18,11 +22,18 @@
 
 5)  AD -  Active Directory 
 
+<<<<<<< HEAD
 6)  Central Administration - Different Modules can  be controlled form a one place called as Central Administration.This helps us retreiving the information at one server.
 
 7)  SiteCollection - It is a Global site where it can be acceessed by everyone.
 
 
+=======
+6)  Central Administration - Different Modules can  be controlled form a one place called as Central Administration.
+
+7)  SiteCollection - It is a Global site where it can be acceessed by everyone.
+
+>>>>>>> origin/master
 8)  Features of SharePoint:
     
      Library
@@ -62,3 +73,5 @@
     Sharepoint Online - In this a Single Resource is accessed by all
 
     Sharepoint Online dedicate - In this Dedicated Resources are used by everyone 
+
+Hello How are you?
